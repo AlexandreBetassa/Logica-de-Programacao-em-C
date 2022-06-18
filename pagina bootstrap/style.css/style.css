@@ -1,0 +1,49 @@
+.navbar {
+    background-color: orangered;
+
+}
+
+.quem-somos {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.navtext {
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.margin-top {
+    margin-top: 15px;
+}
+
+.bodytext {
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#parceiros {
+
+    padding-top: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#produtos {
+    margin-top: 50px;
+    padding-top: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.text-dark {
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 45px;
+    font-weight: bold;
+    margin-top: 30px;
+}
